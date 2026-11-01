@@ -5,3 +5,6 @@ __pycache__/
 .env
 venv/
 .ipynb_checkpoints/
+   fairrec_trained_model/
+   *.npz
+   *.pkl
