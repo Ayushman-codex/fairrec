@@ -51,3 +51,7 @@ def bandit():
 @app.get("/ope")
 def ope():
     return _load("ope.json")
+
+@app.get("/baselines")
+def baselines():
+    return _load("baselines.json")
