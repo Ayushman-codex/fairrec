@@ -1,0 +1,4 @@
+[
+ {"model": "Popularity", "recall10": 0.000528, "hitrate10": 0.006008, "ndcg10": 0.000691, "users": 5992},
+ {"model": "ALS", "recall10": 0.000992, "hitrate10": 0.009346, "ndcg10": 0.001136, "users": 5992}
+]

@@ -1,0 +1,24 @@
+{
+ "true_value": 0.4967,
+ "estimators": [
+  {
+   "name": "IPS",
+   "value": 0.4751,
+   "ci_low": 0.4118,
+   "ci_high": 0.5439
+  },
+  {
+   "name": "SNIPS",
+   "value": 0.4782,
+   "ci_low": 0.4288,
+   "ci_high": 0.5271
+  },
+  {
+   "name": "DR",
+   "value": 0.4821,
+   "ci_low": 0.4169,
+   "ci_high": 0.5416
+  }
+ ],
+ "note": "Logged-bandit data is simulated with known propensities."
+}
